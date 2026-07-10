@@ -1,0 +1,20 @@
+{
+  "project_name": "PitChase",
+  "channel": "live",
+  "version": "1.5.0",
+  "minimum_launcher_version": "1.5.0",
+  "manifest_token": "launcher-bootstrap-1.5.0-2026-07-09",
+  "launcher_title": "PitChase Launcher",
+  "launcher_subtitle": "Season 2",
+  "play_now_label": "Entrar",
+  "news_url": "https://github.com/JpAndreBTA/PitC-Game/releases",
+  "update_notes": [
+    "Publique os arquivos do patch como assets de release no GitHub.",
+    "Atualize somente este manifest quando houver arquivos novos ou alterados.",
+    "Se o arquivo local ja bater com size + sha256, o launcher nao baixa novamente."
+  ],
+  "files": [],
+  "file_count": 0,
+  "total_size": 0,
+  "generated_at": "2026-07-09T23:59:00Z"
+}
