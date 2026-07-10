@@ -1,35 +1,28 @@
 {
   "project_name": "PitChase",
   "channel": "live",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "minimum_launcher_version": "1.5.0",
-  "manifest_token": "launcher-bootstrap-1.5.2-2026-07-10-shop-visual-sync",
+  "manifest_token": "launcher-bootstrap-1.5.3-2026-07-10-remove-screen-config",
   "launcher_title": "PitChase Launcher",
   "launcher_subtitle": "Season 2",
   "play_now_label": "Entrar",
   "news_url": "https://github.com/JpAndreBTA/PitC-Game/releases",
   "update_notes": [
     "Sincronizacao visual da loja aplicada no script.kom com os precos atuais do servidor.",
-    "Configurador de tela externo mantido no fluxo do launcher.",
+    "mainScreenConfig.exe removido do manifesto por estar quebrado.",
     "O launcher continua lendo primeiro o manifesto e baixa apenas o que mudou."
   ],
   "files": [
-    {
-      "relative_path": "mainScreenConfig.exe",
-      "size": 71588833,
-      "sha256": "b6e84e7fa2659eb1e6594ffc4cfeb5d1fab7a81b25d6b0f346974fb823945f40",
-      "updated_at": "2026-07-10T05:27:07Z",
-      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.2/mainScreenConfig.exe"
-    },
     {
       "relative_path": "stage/script.kom",
       "size": 1470885,
       "sha256": "2f0112940cf111a12f024b390d4ef86ab9d81776199ffbefbece358d18c985da",
       "updated_at": "2026-07-10T06:32:26Z",
-      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.2/script.kom"
+      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.3/script.kom"
     }
   ],
-  "file_count": 2,
-  "total_size": 73059718,
-  "generated_at": "2026-07-10T06:36:07Z"
+  "file_count": 1,
+  "total_size": 1470885,
+  "generated_at": "2026-07-10T06:45:00Z"
 }
