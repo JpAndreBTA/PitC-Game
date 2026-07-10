@@ -1,28 +1,28 @@
 {
   "project_name": "PitChase",
   "channel": "live",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "minimum_launcher_version": "1.5.0",
-  "manifest_token": "launcher-bootstrap-1.5.5-2026-07-10-shop-values-sync",
+  "manifest_token": "launcher-bootstrap-1.5.6-2026-07-10-jin-sieghart-visual-sync",
   "launcher_title": "PitChase Launcher",
   "launcher_subtitle": "Season 2",
   "play_now_label": "Entrar",
   "news_url": "https://github.com/JpAndreBTA/PitC-Game/releases",
   "update_notes": [
-    "Sincronizacao visual da loja reaplicada no script.kom com os valores atuais do servidor.",
-    "Testes de personagem e testes de classe reajustados na loja.",
-    "Correcao do fluxo de kits comprados em GP pelo servidor."
+    "Sincronizacao final do script.kom com os valores visuais corrigidos da loja.",
+    "Teste do Jin e Teste do Sieghart confirmados em 1 GP no servidor e no cliente.",
+    "Manifesto atualizado para forcar o launcher a baixar o pacote final correto."
   ],
   "files": [
     {
       "relative_path": "stage/script.kom",
-      "size": 1470810,
-      "sha256": "64070c374a9269bd80b6a78b970557d659acce05df122a38ce4d10a1513072b9",
-      "updated_at": "2026-07-10T05:33:49Z",
-      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.5/script.kom"
+      "size": 1470806,
+      "sha256": "ee29643ef7b2dd89a221ddd6f3e0b17ba7fe634a3363a3cf85b649f14c4597c8",
+      "updated_at": "2026-07-10T08:00:00Z",
+      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.6/script.kom"
     }
   ],
   "file_count": 1,
-  "total_size": 1470810,
-  "generated_at": "2026-07-10T05:33:49Z"
+  "total_size": 1470806,
+  "generated_at": "2026-07-10T08:00:00Z"
 }
