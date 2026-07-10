@@ -1,20 +1,28 @@
 {
   "project_name": "PitChase",
   "channel": "live",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "minimum_launcher_version": "1.5.0",
-  "manifest_token": "launcher-bootstrap-1.5.0-2026-07-09",
+  "manifest_token": "launcher-bootstrap-1.5.1-2026-07-10-screen-config",
   "launcher_title": "PitChase Launcher",
   "launcher_subtitle": "Season 2",
   "play_now_label": "Entrar",
   "news_url": "https://github.com/JpAndreBTA/PitC-Game/releases",
   "update_notes": [
-    "Publique os arquivos do patch como assets de release no GitHub.",
-    "Atualize somente este manifest quando houver arquivos novos ou alterados.",
+    "Launcher com suporte ao configurador de tela externo.",
+    "O launcher continua lendo primeiro o manifesto e so baixa o que mudou.",
     "Se o arquivo local ja bater com size + sha256, o launcher nao baixa novamente."
   ],
-  "files": [],
-  "file_count": 0,
-  "total_size": 0,
-  "generated_at": "2026-07-09T23:59:00Z"
+  "files": [
+    {
+      "relative_path": "mainScreenConfig.exe",
+      "size": 71588697,
+      "sha256": "7420a12ae0562df506f26c8f0a16c06b10a6b30272d271266e7b9437c9d6c5bb",
+      "updated_at": "2026-07-10T05:02:39Z",
+      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.1/mainScreenConfig.exe"
+    }
+  ],
+  "file_count": 1,
+  "total_size": 71588697,
+  "generated_at": "2026-07-10T05:02:39Z"
 }
