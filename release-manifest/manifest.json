@@ -1,28 +1,28 @@
 {
   "project_name": "PitChase",
   "channel": "live",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "minimum_launcher_version": "1.5.0",
-  "manifest_token": "launcher-bootstrap-1.5.6-2026-07-10-jin-sieghart-visual-sync",
+  "manifest_token": "launcher-bootstrap-1.5.7-2026-07-23-pvp-medal-shop",
   "launcher_title": "PitChase Launcher",
   "launcher_subtitle": "Season 2",
   "play_now_label": "Entrar",
   "news_url": "https://github.com/JpAndreBTA/PitC-Game/releases",
   "update_notes": [
-    "Sincronizacao final do script.kom com os valores visuais corrigidos da loja.",
-    "Teste do Jin e Teste do Sieghart confirmados em 1 GP no servidor e no cliente.",
-    "Manifesto atualizado para forcar o launcher a baixar o pacote final correto."
+    "Medalhas das missoes PvP liberadas para compra por GP.",
+    "Valores visuais da loja sincronizados com o banco de dados.",
+    "Manifesto atualizado para o launcher baixar somente o script.kom alterado."
   ],
   "files": [
     {
       "relative_path": "stage/script.kom",
-      "size": 1470806,
-      "sha256": "ee29643ef7b2dd89a221ddd6f3e0b17ba7fe634a3363a3cf85b649f14c4597c8",
-      "updated_at": "2026-07-10T08:00:00Z",
-      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.6/script.kom"
+      "size": 1470822,
+      "sha256": "C622E7E6B63AD16F4136A8A91B6A06DADA0EFD6BA513264FE30B3CB73B5DB6A4",
+      "updated_at": "2026-07-23T12:00:00Z",
+      "download_url": "https://github.com/JpAndreBTA/PitC-Game/releases/download/v1.5.7/script.kom"
     }
   ],
   "file_count": 1,
-  "total_size": 1470806,
-  "generated_at": "2026-07-10T08:00:00Z"
+  "total_size": 1470822,
+  "generated_at": "2026-07-23T12:00:00Z"
 }
